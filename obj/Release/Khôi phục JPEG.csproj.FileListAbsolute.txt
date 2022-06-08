@@ -1,0 +1,16 @@
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\Khôi phục JPEG.exe.config
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\Khôi phục JPEG.exe
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\Khôi phục JPEG.pdb
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.csproj.AssemblyReference.cache
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.csproj.SuggestedBindingRedirects.cache
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi_phục_JPEG.Form1.resources
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi_phục_JPEG.Properties.Resources.resources
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.csproj.GenerateResource.cache
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.csproj.CoreCompileInputs.cache
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.exe
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.pdb
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\gdalconst_csharp.dll
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\gdal_csharp.dll
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\ogr_csharp.dll
+C:\Users\giabao\source\repos\Khôi phục JPEG\bin\Release\osr_csharp.dll
+C:\Users\giabao\source\repos\Khôi phục JPEG\obj\Release\Khôi phục JPEG.csproj.CopyComplete
